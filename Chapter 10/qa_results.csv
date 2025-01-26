@@ -1,0 +1,25 @@
+Question,Context,Answer,Confidence
+What is Hugging Face known for?,"Hugging Face is a company that specializes in Natural Language Processing (NLP).
+    It provides tools and libraries to help developers and researchers easily access state-of-the-art models for tasks such as text classification, question answering, summarization, and more.
+    Hugging Face's main open-source library, 'transformers', has become one of the most widely used libraries in the NLP community.",Natural Language Processing,0.4768075942993164
+What does OpenAI focus on?,"Hugging Face is a company that specializes in Natural Language Processing (NLP).
+    It provides tools and libraries to help developers and researchers easily access state-of-the-art models for tasks such as text classification, question answering, summarization, and more.
+    Hugging Face's main open-source library, 'transformers', has become one of the most widely used libraries in the NLP community.",Natural Language Processing,0.9143735766410828
+What is the main library of Hugging Face?,"Hugging Face is a company that specializes in Natural Language Processing (NLP).
+    It provides tools and libraries to help developers and researchers easily access state-of-the-art models for tasks such as text classification, question answering, summarization, and more.
+    Hugging Face's main open-source library, 'transformers', has become one of the most widely used libraries in the NLP community.",transformers,0.6380006670951843
+Name a model developed by OpenAI.,"Hugging Face is a company that specializes in Natural Language Processing (NLP).
+    It provides tools and libraries to help developers and researchers easily access state-of-the-art models for tasks such as text classification, question answering, summarization, and more.
+    Hugging Face's main open-source library, 'transformers', has become one of the most widely used libraries in the NLP community.",transformers,0.7751761674880981
+What is Hugging Face known for?,"OpenAI is a research company that creates and promotes friendly AI for the benefit of humanity.
+    It is known for groundbreaking advancements in AI, including language models such as GPT-3 and ChatGPT.
+    OpenAI focuses on AI alignment, safety, and the development of technologies that assist with tasks ranging from natural language understanding to creative applications.",groundbreaking advancements in AI,0.5047537088394165
+What does OpenAI focus on?,"OpenAI is a research company that creates and promotes friendly AI for the benefit of humanity.
+    It is known for groundbreaking advancements in AI, including language models such as GPT-3 and ChatGPT.
+    OpenAI focuses on AI alignment, safety, and the development of technologies that assist with tasks ranging from natural language understanding to creative applications.","AI alignment, safety",0.4896048903465271
+What is the main library of Hugging Face?,"OpenAI is a research company that creates and promotes friendly AI for the benefit of humanity.
+    It is known for groundbreaking advancements in AI, including language models such as GPT-3 and ChatGPT.
+    OpenAI focuses on AI alignment, safety, and the development of technologies that assist with tasks ranging from natural language understanding to creative applications.",OpenAI,0.8166534900665283
+Name a model developed by OpenAI.,"OpenAI is a research company that creates and promotes friendly AI for the benefit of humanity.
+    It is known for groundbreaking advancements in AI, including language models such as GPT-3 and ChatGPT.
+    OpenAI focuses on AI alignment, safety, and the development of technologies that assist with tasks ranging from natural language understanding to creative applications.",GPT-3 and ChatGPT,0.7909659743309021
